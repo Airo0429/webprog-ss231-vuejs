@@ -1,7 +1,12 @@
 
-    #app {
-      display: inline-block;
-      padding: 10px;
-      font-size: x-large;
-      background-color: lightgreen;
-    }
+
+const app = Vue.createApp({
+ data() {
+  return {
+   message: "Hello World!"
+  }
+ }
+})
+app.mount('#app')
+
+
