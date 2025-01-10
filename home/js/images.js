@@ -1,4 +1,4 @@
-<script>
+
   const app2 = Vue.createApp({
    data() {
     return {
@@ -17,4 +17,4 @@
   
   app2.mount('#app2')
 
-</script>
+
