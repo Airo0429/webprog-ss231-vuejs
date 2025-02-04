@@ -19,15 +19,13 @@
     <li v-for="country in countries" :key="country.id">{{ country.name }}</li>
   </ul>
 
-  <h1>Food</h1>
-  <country/>
+  
+   <h1>Food</h1>
   <personal-profile/> <br>
-  <food-item/>  <br>
-  <food-item2/> <br>
-  <food-item/>  <br>
-  <food-item2/> <br>
-   <comment-form/>
-  <comment/>
+  <food-item/> 
+  <food-item2/>
+  <food-item/> 
+  <food-item2/> 
 </template>
 
 <style></style>
