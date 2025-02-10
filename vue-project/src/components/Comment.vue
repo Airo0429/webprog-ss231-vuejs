@@ -34,7 +34,6 @@ onMounted(() => {
 
 </script>
 
-
 <style>
   #app > div {
     border: dashed black 1px;
