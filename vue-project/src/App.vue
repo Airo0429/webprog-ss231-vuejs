@@ -1,5 +1,6 @@
 <template>
   <h1>Food</h1>
+  <rest-api/>
   <country/>
   <personal-profile/> <br>
   <food-item/> 
@@ -8,7 +9,7 @@
   <food-item2/> 
   <comment-form/>
   <comment/>
-  <rest-api/>
+ 
 </template>
 
 <style></style>
