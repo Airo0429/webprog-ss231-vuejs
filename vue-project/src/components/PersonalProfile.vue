@@ -39,9 +39,7 @@
         <div>
             <h2>7. Picture Gallery</h2>
             <table border="1">
-                <tr>
-                    <td><img src="https://raw.githubusercontent.com/Airo0429/WEBPROG-SS231-Personal-Website/main/Isaiah%204110.png" alt="Image" width="500" height="333"></td>
-                </tr>
+                
             </table>
         </div>
     </div>
